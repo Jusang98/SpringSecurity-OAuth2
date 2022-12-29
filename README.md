@@ -9,3 +9,4 @@
 # 로그인/로그아웃 페이지 Thymeleaf 이용해서 커스터마이징
 # Spring Security JSP Taglib 사용
 # OAuth2 깃허브 로그인 기능 추가
+# Redis 세션 
